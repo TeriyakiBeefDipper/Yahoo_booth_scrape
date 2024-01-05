@@ -12,12 +12,13 @@ import os
 header = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
 
+# *Create a sub-directory called images
 base_dir = os.path.dirname(os.path.realpath(__file__))
 images_dir = os.path.join(base_dir, 'images')
 if not os.path.exists(images_dir):
     os.mkdir('images')
 
-
+# *handles graphql json arrays to list, json object to dictionary
 def extract_products_from_graphql(data):
     if isinstance(data, dict):
         for key, value in data.items():
