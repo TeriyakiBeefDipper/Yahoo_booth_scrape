@@ -16,7 +16,7 @@ import urllib.request
 header = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
 
-url = 'https://tw.bid.yahoo.com/booth/Y7745291823'
+url = 'https://tw.bid.yahoo.com/booth/Y77********'
 
 yahoo = requests.get(url, headers=header).text
 soup = BeautifulSoup(yahoo, 'html.parser')
