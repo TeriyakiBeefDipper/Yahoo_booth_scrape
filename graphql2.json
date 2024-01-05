@@ -1,0 +1,669 @@
+[
+    {
+        "data": {
+            "getAuctionProductsInStore": {
+                "totalCount": 74,
+                "products": [
+                    {
+                        "id": "e44448293",
+                        "url": "https://tw.bid.yahoo.com/item/e44448293",
+                        "title": "☆BAM    Hitech  中提琴盒.小提琴盒",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "24000.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/bL7QVFKDFoscBkeK6K_HCA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD01Njc7cT04NTtyb3RhdGU9YXV0bzt3PTI4NA--/https://s.yimg.com/ob/image/1f796d9b-61e1-4384-90d9-924ab7cf0917.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/pbeDd_HgGjqnzDfUnVkLYw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/1f796d9b-61e1-4384-90d9-924ab7cf0917.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/L2FxBalaNFK5wM9MIpGGgA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yODM7cT04NTtyb3RhdGU9YXV0bzt3PTI4Mw--/https://s.yimg.com/ob/image/d0b03e95-7cc5-447c-8ae5-0b3479236c6a.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/ncfR2GTwu7PzuAlz5r2fIg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/d0b03e95-7cc5-447c-8ae5-0b3479236c6a.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/TkQdC9xmkE1fQrspqdXJSg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMTM7cT04NTtyb3RhdGU9YXV0bzt3PTQzMw--/https://s.yimg.com/ob/image/326452f4-dc94-4911-b61e-a92e63af251e.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/QtVMR0DwI5bidbf_eQb7cQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIxMztxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMTM-/https://s.yimg.com/ob/image/326452f4-dc94-4911-b61e-a92e63af251e.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "0.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "b102956061",
+                        "url": "https://tw.bid.yahoo.com/item/b102956061",
+                        "title": "☆Phiharmonic愛樂工坊☆-日本原裝SUZUKI 小提琴附原裝日製盒&簽名弓",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "16800.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/.HfWbL9RbGBtebBBzmd49Q--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/fc3502b0-ae39-4a35-aeea-aa6f2324a623.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/Slnlp9T.wZHonoGTqcqGmA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/fc3502b0-ae39-4a35-aeea-aa6f2324a623.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/Z8nhmk1cTV9soeNoRWTKMA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/68937406-4c07-4953-bdde-75cf34cf5fbb.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/cCCWSe6QQJWVX0VX9P.cyA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/68937406-4c07-4953-bdde-75cf34cf5fbb.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/UE03nlUl.Y7R__QO2q2Ipg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/369cea91-489c-45b8-8970-f293df873047.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/OkjmTXqjSKF4GCQhjgLh6g--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/369cea91-489c-45b8-8970-f293df873047.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "200.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "1225949984",
+                        "url": "https://tw.bid.yahoo.com/item/1225949984",
+                        "title": "☆日本進口，Hello Kitty 24K純金鍍&SV1000純銀  絕版手機吊飾",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "4800.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/zfbiqiRpF7NIzy1F2QOKFA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/729e71d9-1974-4149-93d3-4f96cf8dfe19.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/KFN0dFJTisyDh7mZukgPKA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/729e71d9-1974-4149-93d3-4f96cf8dfe19.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/b9qQbctaudrk5e84mnRo_Q--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/4d7ca970-5435-45d2-844b-301bdea25078.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/G4UffIlZh09zsDkkkOwNIQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/4d7ca970-5435-45d2-844b-301bdea25078.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "e45743644",
+                        "url": "https://tw.bid.yahoo.com/item/e45743644",
+                        "title": "☆Phiharmonic愛樂工坊☆-Wondertone Solo violin string小提琴弦",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "2200.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/.WftDQCNS53Lxl5lhE6QPw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMDA7cT04NTtyb3RhdGU9YXV0bzt3PTIwMA--/https://s.yimg.com/ob/image/7c0439fe-9c6f-4823-b3ad-d7e726d73034.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/duq2XH_N.uKWpNDCxOGTwg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIwMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMDA-/https://s.yimg.com/ob/image/7c0439fe-9c6f-4823-b3ad-d7e726d73034.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "0.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "f11736518",
+                        "url": "https://tw.bid.yahoo.com/item/f11736518",
+                        "title": "☆Phiharmonic愛樂工坊☆-大提琴金屬弱音器(黑)",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "600.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/gioukUa8gauUSbtDEbzmhQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/110336dc-bf52-478a-91c7-f484f63c2743.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/0SgKZX.Z0yvbtjPLujAJpg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/110336dc-bf52-478a-91c7-f484f63c2743.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "d44441405",
+                        "url": "https://tw.bid.yahoo.com/item/d44441405",
+                        "title": "☆Phiharmonic愛樂工坊☆-KUN-VOCE肩墊",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "2980.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/L9BAUWaFrIj5cL1o2d69MQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/0e33daa7-2baf-49f3-aae8-3b14d2588c8b.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/au2vFpYYO_rwLWyCa2OJJA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/0e33daa7-2baf-49f3-aae8-3b14d2588c8b.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "80.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "b54517026",
+                        "url": "https://tw.bid.yahoo.com/item/b54517026",
+                        "title": "☆Phiharmonic愛樂工坊☆-Pirastro Chromcor 大提弦",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "4900.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/saUWfWu7PjWqI9uPtaW6NQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yNzc7cT04NTtyb3RhdGU9YXV0bzt3PTI4MA--/https://s.yimg.com/ob/image/02d47fd9-ba3a-48e5-9f14-96f032f0689e.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/_rZSOAwRn9TpAFqPxZs1BQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/02d47fd9-ba3a-48e5-9f14-96f032f0689e.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "d59568400",
+                        "url": "https://tw.bid.yahoo.com/item/d59568400",
+                        "title": "日本進口-圓柱12色色鉛筆",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "360.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/e_1hXv9h0zCiW_9KPntvQg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMzU7cT04NTtyb3RhdGU9YXV0bzt3PTMxNA--/https://s.yimg.com/ob/image/2f354648-6dda-4a3c-a9b5-f407e6b6d4dd.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/k3enJM0prq22WQBytx7sug--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/2f354648-6dda-4a3c-a9b5-f407e6b6d4dd.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/T8bHHwQ_wCQ2zNvseOjweg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMzU7cT04NTtyb3RhdGU9YXV0bzt3PTMxNA--/https://s.yimg.com/ob/image/a2093b2e-1005-444e-8e26-a9fe808d3fad.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/ofqurd2s_oVjI8CJViKFtw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/a2093b2e-1005-444e-8e26-a9fe808d3fad.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/5xdFMQgHk0lYIg3duxJDfg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMTQ7cT04NTtyb3RhdGU9YXV0bzt3PTIzNQ--/https://s.yimg.com/ob/image/79ce83ac-a97e-4ee8-91f6-dd4f84d6e8d3.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/FtPw3HG9LrRSVsJ59sFyUg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/79ce83ac-a97e-4ee8-91f6-dd4f84d6e8d3.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "f21161680",
+                        "url": "https://tw.bid.yahoo.com/item/f21161680",
+                        "title": "☆Denis Wick  5504小喇叭弱音器",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "1500.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/DfrNCaS7A6FPsgmA.JCwbg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00ODA7cT04NTtyb3RhdGU9YXV0bzt3PTI5NQ--/https://s.yimg.com/ob/image/6f5de6ed-74c1-4bd2-8e33-849b1128fb9a.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/74jXogqkv2cQGRef_0ZMNQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/6f5de6ed-74c1-4bd2-8e33-849b1128fb9a.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/WI_.4h7DhwwTzjeUu3_Lmg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00OTg7cT04NTtyb3RhdGU9YXV0bzt3PTUwMA--/https://s.yimg.com/ob/image/b03258e4-166f-4be8-8339-a24a8fadb756.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/0ol3e06Yak2cNa_pZ3pJ0w--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/b03258e4-166f-4be8-8339-a24a8fadb756.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "0.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "d76181276",
+                        "url": "https://tw.bid.yahoo.com/item/d76181276",
+                        "title": "日本原裝進口-小熊樂手",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "350.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/oQQx3L.uhkH9wEz8aE0h6w--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00NTA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/aa05400e-8fe4-40ca-9003-2297e7adc8f6.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/IJagypA2X2nT2oAyppEU0w--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/aa05400e-8fe4-40ca-9003-2297e7adc8f6.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "1227500192",
+                        "url": "https://tw.bid.yahoo.com/item/1227500192",
+                        "title": "**歐洲精品收藏家 COLLECTION ** 名品義大利限量精品 REUGE 手工音樂珠寶盒",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "18000.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/qJaTPIW.AIEpOfis1XZmhg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/2c02aada-c7eb-435d-81c8-b494ca4f95dc.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/2ylscuJtcR4Hh.8L6oEMXg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/2c02aada-c7eb-435d-81c8-b494ca4f95dc.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/3WSpvwId2WoRGtV.zzWX_g--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD02MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://s.yimg.com/ob/image/27c2e293-d2fb-4d7b-8488-b268f28d457b.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/99oqLvVbEQzOmeJt_TUclQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/27c2e293-d2fb-4d7b-8488-b268f28d457b.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/NfVL6LGukTvyph_LRy7PTg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/a771f5b1-c57d-4c46-bfdf-5480736e4e27.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/i.2D.ZsZcZCw1bqWHXeDdg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/a771f5b1-c57d-4c46-bfdf-5480736e4e27.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/9L5703bIghZclIFi6Sp2mA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/c2547edf-1e4a-4716-807f-d734095740c4.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/2tU2JsqMzeEnFQ5O07Z.FA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/c2547edf-1e4a-4716-807f-d734095740c4.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "100.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "b58754337",
+                        "url": "https://tw.bid.yahoo.com/item/b58754337",
+                        "title": "☆BAM經典優雅小提琴盒",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "99999.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/lmMhLByIsQLZwUVvYWMuLA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD01Njc7cT04NTtyb3RhdGU9YXV0bzt3PTI4NA--/https://s.yimg.com/ob/image/41fd6275-7b6a-439a-b53c-8b82dab166f0.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/.wbxlO8HR6q7F2eeiv4stQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/41fd6275-7b6a-439a-b53c-8b82dab166f0.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/fY_7CntWtWTyv8yYvAsPVQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yODM7cT04NTtyb3RhdGU9YXV0bzt3PTI4Mw--/https://s.yimg.com/ob/image/0faf1bdf-1e96-4742-885d-716d34117e13.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/hv.Mf0kvZKCsA3NmNgqixw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/0faf1bdf-1e96-4742-885d-716d34117e13.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/3lak0xxIRfhQCpo7LpSfKQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yODM7cT04NTtyb3RhdGU9YXV0bzt3PTI4Mw--/https://s.yimg.com/ob/image/51088eff-fcd5-4bdc-8bb6-3385a484f38e.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/OfAWguyqk0ifMmQNoENCew--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/51088eff-fcd5-4bdc-8bb6-3385a484f38e.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "0.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "f52164986",
+                        "url": "https://tw.bid.yahoo.com/item/f52164986",
+                        "title": "☆Phiharmonic愛樂工坊☆-Pirastro Obligato 中提琴弦",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "2800.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/eHHCTaywh07L8t03EYYk4w--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yNTA7cT04NTtyb3RhdGU9YXV0bzt3PTI1MA--/https://s.yimg.com/ob/image/d51cc1c7-dab1-4038-9e96-2ebdab7e587c.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/.xeRqUrm1kclWpp5NCjF5A--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/d51cc1c7-dab1-4038-9e96-2ebdab7e587c.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "80.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    },
+                    {
+                        "id": "e43863795",
+                        "url": "https://tw.bid.yahoo.com/item/e43863795",
+                        "title": "日本原裝進口 ☆經典 ☆↗皮製收納盒",
+                        "currentPrice": null,
+                        "marketPrice": null,
+                        "biddingPrice": "400.0",
+                        "minPrice": null,
+                        "maxPrice": null,
+                        "mainImage": null,
+                        "images": [
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/wAQVCzducRHIROlh7t2zrA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMA--/https://s.yimg.com/ob/image/760e3925-7119-4f23-a283-1930514ac97b.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/MitUWA9AV0OAQGIAAYwB7Q--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/760e3925-7119-4f23-a283-1930514ac97b.jpg",
+                                "__typename": "Uther_Product_Image"
+                            },
+                            {
+                                "large": "https://s.yimg.com/cl/api/res/1.2/QVpQLbc4SSE8zdpdRCNHrg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMzA7cT04NTtyb3RhdGU9YXV0bzt3PTM0Ng--/https://s.yimg.com/ob/image/247d8c4a-ced2-423a-9d50-86794142c68f.jpg",
+                                "small": "https://s.yimg.com/cl/api/res/1.2/qGDsWDNIWZqv1oTP8Qm2ww--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTIyMDtxPTg1O3JvdGF0ZT1hdXRvO3NyPTEuMjtzcz0xLjI7dz0yMjA-/https://s.yimg.com/ob/image/247d8c4a-ced2-423a-9d50-86794142c68f.jpg",
+                                "__typename": "Uther_Product_Image"
+                            }
+                        ],
+                        "shipFee": "70.0",
+                        "numberOfBiddings": "0",
+                        "salesVolume": "0",
+                        "endTs": "2024-01-15T15:56:00Z",
+                        "hasVideo": false,
+                        "hasCoupon": false,
+                        "stockStatus": "NORMAL",
+                        "isBidding": true,
+                        "isAdult": false,
+                        "isPayAtHilife": false,
+                        "isUsedCar": false,
+                        "isCallForPrice": false,
+                        "customTags": [],
+                        "propertyCode": "4",
+                        "isFixedPrice": false,
+                        "__typename": "Uther_Product"
+                    }
+                ],
+                "categoryPath": null,
+                "subcategories": [
+                    {
+                        "name": "古董、藝術與礦石",
+                        "id": "20000",
+                        "level": 1,
+                        "count": 2
+                    },
+                    {
+                        "name": "手錶與飾品配件",
+                        "id": "2092073491",
+                        "level": 1,
+                        "count": 3
+                    },
+                    {
+                        "name": "運動、戶外與休閒",
+                        "id": "2092077888",
+                        "level": 1,
+                        "count": 58
+                    },
+                    {
+                        "name": "女裝與服飾配件",
+                        "id": "23000",
+                        "level": 1,
+                        "count": 1
+                    },
+                    {
+                        "name": "居家、家具與園藝",
+                        "id": "24198",
+                        "level": 1,
+                        "count": 5
+                    },
+                    {
+                        "name": "玩具、模型與公仔",
+                        "id": "25464",
+                        "level": 1,
+                        "count": 1
+                    },
+                    {
+                        "name": "圖書/影音/文具",
+                        "id": "3994318",
+                        "level": 1,
+                        "count": 4
+                    }
+                ],
+                "categoryListing": {
+                    "totalCount": 74,
+                    "categories": [
+                        {
+                            "name": "圖書/影音/文具",
+                            "id": "3994318",
+                            "level": 1,
+                            "count": 4,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "古董、藝術與礦石",
+                            "id": "20000",
+                            "level": 1,
+                            "count": 2,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "玩具、模型與公仔",
+                            "id": "25464",
+                            "level": 1,
+                            "count": 1,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "居家、家具與園藝",
+                            "id": "24198",
+                            "level": 1,
+                            "count": 5,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "女裝與服飾配件",
+                            "id": "23000",
+                            "level": 1,
+                            "count": 1,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "手錶與飾品配件",
+                            "id": "2092073491",
+                            "level": 1,
+                            "count": 3,
+                            "__typename": "Uther_In_Store_Category"
+                        },
+                        {
+                            "name": "運動、戶外與休閒",
+                            "id": "2092077888",
+                            "level": 1,
+                            "count": 58,
+                            "__typename": "Uther_In_Store_Category"
+                        }
+                    ],
+                    "__typename": "Uther_In_Store_Category_With_Totalcount"
+                },
+                "storeInfo": {
+                    "id": "Y7745291823",
+                    "name": "☆Phiharmonic愛樂工坊☆",
+                    "isStore": false,
+                    "__typename": "Uther_In_Store_Store_Info"
+                },
+                "status": {
+                    "code": "200001",
+                    "message": "success",
+                    "__typename": "Uther_API_Status"
+                },
+                "__typename": "Uther_In_Store_Result"
+            }
+        }
+    }
+]
